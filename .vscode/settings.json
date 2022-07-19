@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\Users\\domin\\anaconda3\\envs\\trade_bot\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "cmake.configureOnOpen": false,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:DL_trading}/optimize_profit.db",
+            "name": "optimize_profit"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
